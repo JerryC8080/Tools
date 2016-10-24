@@ -1,2 +1,3 @@
 # Tools
-Tools kit of JerryC
+
+这是一个自用的工具类库，比起Star，不如把真正解决需求的类库收集起来。
