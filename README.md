@@ -13,3 +13,4 @@
 # 服务
 
 * [Let's Encrypt](https://letsencrypt.org/): 免费的HTTPS证书，有效期3个月，可以续期。
+* [Certbot](https://certbot.eff.org/): 自动部署HTTPS证书，结合「Let's Encrypt」可以实现无限续期
