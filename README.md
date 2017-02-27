@@ -22,6 +22,18 @@
 * [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin): 针对HTML处理的webpack插件
 * [grunt](): 任务执行工具
 * [gulp](): 任务执行工具
+  - [gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins)：自动加载 `package.json` 中的 gulp 插件
+  - [gulp-rename](https://www.npmjs.com/package/gulp-rename)： 重命名
+  - [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)：文件压缩
+  - [gulp-concat](https://www.npmjs.com/package/gulp-concat)：文件合并
+  - [gulp-less](https://www.npmjs.com/package/gulp-less)：编译 less
+  - [gulp-sass](https://www.npmjs.com/package/gulp-sass)：编译 sass
+  - [gulp-clean-css](https://github.com/scniro/gulp-clean-css)：压缩 CSS 文件
+  - [gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin)：压缩 HTML 文件
+  - [gulp-babel](https://github.com/babel/gulp-babel): 使用 babel 编译 JS 文件
+  - [gulp-jshint](https://www.npmjs.com/package/gulp-jshint)：jshint 检查
+  - [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin)：压缩jpg、png、gif等图片
+  - [gulp-livereload](https://github.com/vohof/gulp-livereload)：当代码变化时，它可以帮我们自动刷新页面
 * [html-minifier](https://github.com/kangax/html-minifier): HTML压缩工具（提供Grunt、Gulp版本）
 * [UglifyJS](https://github.com/mishoo/UglifyJS2): JS脏化工具
 
