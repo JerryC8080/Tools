@@ -92,6 +92,11 @@
 
 # 开源框架
 * [goaccess](https://goaccess.io/): 一个分析Nginx、Apache等分布式服务器日志的开源工具
-
+* [Sentry](https://sentry.io/): 错误上报，报警监控工具。支持 JavaScript、PHP、NodeJS等    
+  - [官方博客](https://blog.sentry.io/)    
+  - [官方文档](https://docs.sentry.io/)     
+  - 搭建教程：     
+    - [Sentry 简易搭建指南](https://zhuanlan.zhihu.com/p/24445449)    
+    
 # 学习资源
 * [cssreference](http://cssreference.io/): 一个动态展示各种CSS的学习库
