@@ -59,6 +59,7 @@
 * [istanbul](): 测试覆盖率工具
 * [csurf](): express 中间件，实现 CSRF
 * [helmet](): express 中间件，集成了常见网络安全防御的实现
+* [yargs](http://yargs.js.org/): 制作 CLI 的库
 
 # 测试
 * [wrk](): 压测工具
