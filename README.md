@@ -7,6 +7,8 @@
 ## 动画
 * [GreenSock | GSAP](https://greensock.com/gsap): CSS动画类库
 * [easing](http://robertpenner.com/easing/): 函数式动画库
+* [create.js](https://createjs.com/): HTML Canvas 库
+* [pixi.js](http://www.pixijs.com/): 2D WebGL 动画库
 
 ## 图表
 * [D3]():
