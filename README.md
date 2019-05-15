@@ -2,9 +2,19 @@
 
 每个开发者都应该有一个自己的工具箱，在将来漫长的职业生涯中，这些工具可以为我省下宝贵的时间，并帮助我更好的组织个人知识库。    
 
+# Source of Inspiration
+
+* 
+
+
+----- 
+
 # 前端
 ## UI
 
+* [open logos](https://openlogos.org/)：一位老外给开源项目做的免费LOGO设计，需要联系作者申请免费版权。
+
+### Design Guide & Components
 * Google
   * [Meterial Design](https://material.io/design/): 大名鼎鼎的 Google Meterial Design，基于这套 style guide 下，提供了 Android，iOS，Web，Flutter 相应的组件库。
   * [Meterial Design for Web](https://github.com/material-components/material-components-web): 针对 JS 的组件库，不需依赖框架
@@ -22,11 +32,13 @@
   * [Semantic React](https://react.semantic-ui.com/): React 版本的组件
   * [Semantic Ember](https://github.com/Semantic-Org/Semantic-UI-Ember): EmberJS 版本的组件库，不过很久不更新了。
 
-## 动画
+## 动画&CSS
 * [GreenSock | GSAP](https://greensock.com/gsap): CSS动画类库
 * [easing](http://robertpenner.com/easing/): 函数式动画库
 * [create.js](https://createjs.com/): 一套制作 HTML5 丰富交互的工具集合
 * [pixi.js](http://www.pixijs.com/): 2D WebGL 动画库
+* [css tricks](https://css-tricks.com/): 一个有很多CSS技巧的博客网站
+* [cssreference](http://cssreference.io/): 一个动态展示各种CSS的学习库
 
 ## 图表
 * [D3]():
@@ -57,6 +69,8 @@
 * [html-minifier](https://github.com/kangax/html-minifier): HTML压缩工具（提供Grunt、Gulp版本）
 * [UglifyJS](https://github.com/mishoo/UglifyJS2): JS脏化工具
 
+------
+
 # Node.js
 * [SailsJS](https://github.com/balderdashy/sails): NodeJS企业级开发框架
 * [loopback](https://github.com/strongloop/loopback): StrongLoop出品的NodeJS企业级开发框架
@@ -81,11 +95,15 @@
 * [helmet](): express 中间件，集成了常见网络安全防御的实现
 * [yargs](http://yargs.js.org/): 制作 CLI 的库
 
+
+-----
+
 # 测试
 * [wrk](): 压测工具
 * [ab](): 压测工具
 * [jmeter](): 压测工具
 
+-----
 
 # Linux 命令
 * tar: 压缩、解压
@@ -95,6 +113,8 @@
 * autojump: 快速跳转目录工具
 * ab: 性能压测命令
 
+------
+
 # 消息队列工具
 * RabbitMQ
 * Kafka
@@ -102,6 +122,8 @@
 * ZeroMQ
 * ActiveMQ
 * Ali MNS
+
+------
 
 # 服务 & SaaS
 
@@ -111,6 +133,8 @@
 * [loggly](https://www.loggly.com/): 提供日志服务
 * [Taobao RAP](http://rapapi.org/): 淘宝提供的API接口 Mock 服务
 
+------
+
 # 开源框架
 * [goaccess](https://goaccess.io/): 一个分析Nginx、Apache等分布式服务器日志的开源工具
 * [Sentry](https://sentry.io/): 错误上报，报警监控工具。支持 JavaScript、PHP、NodeJS等    
@@ -118,6 +142,5 @@
   - [官方文档](https://docs.sentry.io/)     
   - 搭建教程：     
     - [Sentry 简易搭建指南](https://zhuanlan.zhihu.com/p/24445449)    
-    
-# 学习资源
-* [cssreference](http://cssreference.io/): 一个动态展示各种CSS的学习库
+
+
