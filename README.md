@@ -4,7 +4,9 @@
 
 # Source of Inspiration
 
-* 
+* [dribbble](https://dribbble.com/): 各种有趣的创造性设计
+* [Github Trending](https://github.com/trending): 发现流行的 github 项目
+* [Product Hunt](https://www.producthunt.com/): 发现各种优秀的项目产品
 
 
 ----- 
