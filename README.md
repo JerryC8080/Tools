@@ -21,7 +21,7 @@
 
 ### Design Guide & Components
 * Google
-  * [Meterial Design](https://material.io/design/): 大名鼎鼎的 Google Meterial Design，基于这套 style guide 下，提供了 Android，iOS，Web，Flutter 相应的组件库。
+  * [Meterial Design](https://material.io/design/): 大名鼎鼎的 Google Meterial Design，提供了 Android，iOS，Web，Flutter 相应的组件库。
   * [Meterial Design for Web](https://github.com/material-components/material-components-web): 针对 JS 的组件库，不需依赖框架
   * [Meterial Design for React](https://github.com/material-components/material-components-web-react): React 组件库
   * [Meterial Design for Android](https://github.com/material-components/material-components-web-android): Android 组件库
@@ -38,7 +38,7 @@
 * 饿了么
   * [Element UI](https://element.eleme.cn): 没有按端来区分设计元素，统一套设计组件，分别有：React、Vue（主打）、Angular 版本
 * Semantic
-  * [Semantic UI](https://element.eleme.cn): 一套老牌ui了，没有 style guide，直接给能开箱即用组件。不需要依赖框架，css 配合 jQuery 就能使用。
+  * [Semantic UI](https://element.eleme.cn): 一套老牌ui了，没有 style guide，不需要依赖框架，css 配合 jQuery 就能使用。
   * [Semantic React](https://react.semantic-ui.com/): React 版本的组件
   * [Semantic Ember](https://github.com/Semantic-Org/Semantic-UI-Ember): EmberJS 版本的组件库，不过很久不更新了。
 
