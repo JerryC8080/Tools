@@ -14,6 +14,13 @@
 
 ----- 
 
+# 算法
+
+* [LeetCode](https://leetcode-cn.com/): 做题社区
+* [LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation): 用动画的形式呈现解LeetCode题目的思路
+
+----- 
+
 # 前端
 ## UI
 
