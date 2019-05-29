@@ -149,6 +149,7 @@
 * [神箭手](http://www.shenjianshou.cn/): 提供爬虫服务
 * [loggly](https://www.loggly.com/): 提供日志服务
 * [Taobao RAP](http://rapapi.org/): 淘宝提供的API接口 Mock 服务
+* [carbon](https://carbon.now.sh)：一个生成好看的代码图片的工具
 
 ------
 
