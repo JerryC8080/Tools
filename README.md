@@ -86,6 +86,11 @@
 * [html-minifier](https://github.com/kangax/html-minifier): HTML压缩工具（提供Grunt、Gulp版本）
 * [UglifyJS](https://github.com/mishoo/UglifyJS2): JS脏化工具
 
+
+## React
+
+* [react-final-form](https://final-form.org/react): 表单验证
+* [Braft Editor](https://braft.margox.cn/): 富文本编辑器
 ------
 
 # Node.js
