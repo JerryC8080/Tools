@@ -129,7 +129,8 @@
 
 -----
 
-# 数据买点
+# 数据埋点
+
 * [神策](https://www.sensorsdata.cn/)
 * [阿拉丁](https://tj.aldwx.com/downSDK/)
 * [腾讯有数](https://txsr.qq.com/doc/bi/intro.html)
