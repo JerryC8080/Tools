@@ -129,6 +129,13 @@
 
 -----
 
+# 数据买点
+* [神策](https://www.sensorsdata.cn/)
+* [阿拉丁](https://tj.aldwx.com/downSDK/)
+* [腾讯有数](https://txsr.qq.com/doc/bi/intro.html)
+
+---
+
 # Linux 命令
 * tar: 压缩、解压
 * curl: 下载命令
