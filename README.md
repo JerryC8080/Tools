@@ -61,6 +61,7 @@
 * [D3]():
 * [ChartJS](https://github.com/chartjs/Chart.js): 一个UI很 Material Design 的图表库
 * [Echarts](https://github.com/ecomfe/echarts): 百度开发的图表库
+* [AntV](https://antv.vision/zh): 蚂蚁数据可视化（兼容小程序）
 
 ## 浏览器 & 兼容性
 * [can i use](): 罗列了各大浏览器对于前端的新特性的支持情况
