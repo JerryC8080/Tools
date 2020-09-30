@@ -68,6 +68,7 @@
 * [html5shiv](https://github.com/aFarkas/html5shiv): 可以让旧浏览器使用HTML5标签
 
 ## 工程化
+* [typescript-starter](https://github.com/bitjson/typescript-starter): 快速创建 TS 项目
 * [webpack](): 资源打包工具
 * [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin): 针对HTML处理的webpack插件
 * [grunt](): 任务执行工具
