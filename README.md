@@ -178,4 +178,10 @@
   - 搭建教程：     
     - [Sentry 简易搭建指南](https://zhuanlan.zhihu.com/p/24445449)    
 
+-------
+
+# 编码规范
+
+* JS/TS
+  * [eslint-plugin-functional](https://github.com/jonaskello/eslint-plugin-functional): 函数式编程的规范
 
