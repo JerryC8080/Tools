@@ -184,4 +184,12 @@
 
 * JS/TS
   * [eslint-plugin-functional](https://github.com/jonaskello/eslint-plugin-functional): 函数式编程的规范
+  
+-------
+
+# 开发工具
+
+* [whistle](https://wproxy.org/whistle/): 代理+mock+host工具
+* [mock](https://github.com/nuysoft/Mock): 前端数据mock工具
+* [whistle.vase](https://github.com/whistle-plugins/whistle.vase): whistle 的mock插件
 
