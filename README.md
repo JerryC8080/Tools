@@ -204,4 +204,6 @@
 * [draw.io](http://draw.io/): 画各种流程图、时序图的好工具
 * [PlantUML](https://github.com/qjebbs/vscode-plantuml): 通过编码的方式画时序图，提供 VSCode 插件
 * [Carbon](https://carbon.now.sh/): 生成好看的代码截图
+* [Typora](https://typora.io/)：最好的 Markdown 编辑工具
+* [Mermaid](https://mermaid-js.github.io/mermaid/#/)：使用 markdown 预发画各种流程图的工具，typora 自建对应的扩展
 
