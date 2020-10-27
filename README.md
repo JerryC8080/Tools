@@ -10,6 +10,7 @@
 * [dribbble](https://dribbble.com/): 各种有趣的创造性设计
 * [Github Trending](https://github.com/trending): 发现流行的 github 项目
 * [Product Hunt](https://www.producthunt.com/): 发现各种优秀的项目产品
+* [技术雷达](https://www.thoughtworks.com/cn/radar#subscribe)：ThroughtWorks 每年都会发布业界的技术趋势，也就是技术雷达
 
 
 ----- 
