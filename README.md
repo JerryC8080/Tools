@@ -64,8 +64,10 @@
 * [Echarts](https://github.com/ecomfe/echarts): 百度开发的图表库
 * [AntV](https://antv.vision/zh): 蚂蚁数据可视化（兼容小程序）
 
-## 浏览器 & 兼容性
-* [can i use](): 罗列了各大浏览器对于前端的新特性的支持情况
+## 兼容性
+* [can i use](): 罗列了各大浏览器对于前端的新特性的支持情况；
+* [TC39](https://github.com/tc39/proposals): 关注JS语言的有关特性，处于哪个阶段，是否成熟；
+* [node green](https://node.green/): 关注 Node.js 每个版本对 JS 特性的支持情况；
 * [html5shiv](https://github.com/aFarkas/html5shiv): 可以让旧浏览器使用HTML5标签
 
 ## 工程化
