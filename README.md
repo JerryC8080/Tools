@@ -133,6 +133,10 @@
 * [wrk](): 压测工具
 * [ab](): 压测工具
 * [jmeter](): 压测工具
+* mock dependency
+  - [rewiremock](https://github.com/theKashey/rewiremock)
+  - [testdouble.js](https://github.com/testdouble/testdouble.js)
+  - [proxyquire](https://github.com/thlorenz/proxyquire)
 
 -----
 
