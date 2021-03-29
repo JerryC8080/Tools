@@ -212,4 +212,7 @@
 * [Carbon](https://carbon.now.sh/): 生成好看的代码截图
 * [Typora](https://typora.io/)：最好的 Markdown 编辑工具
 * [Mermaid](https://mermaid-js.github.io/mermaid/#/)：使用 markdown 预发画各种流程图的工具，typora 自建对应的扩展
+* [flaticon](https://www.flaticon.com/)： 开源的 ICON
+* [Noun Project](https://thenounproject.com/): 开源的 ICON
+* [Inkscape](https://inkscape.org/): 画图工具
 
