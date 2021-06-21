@@ -130,13 +130,24 @@
 -----
 
 # 测试
-* [wrk](): 压测工具
-* [ab](): 压测工具
-* [jmeter](): 压测工具
+* 压测工具
+  * [wrk](): 压测工具
+  * [ab](): 压测工具
+  * [jmeter](): 压测工具
 * mock dependency
   - [rewiremock](https://github.com/theKashey/rewiremock)
   - [testdouble.js](https://github.com/testdouble/testdouble.js)
   - [proxyquire](https://github.com/thlorenz/proxyquire)
+* 前端单测
+  * [enzyme](https://github.com/enzymejs/enzyme): React 单测工具
+  * [puppeteer](https://github.com/puppeteer/puppeteer): Chrome 无头浏览器
+  * [jest](https://github.com/facebook/jest): 前端单测工具，功能较丰富
+  * [ava](https://github.com/avajs/ava): 前端单测工具
+  * [sinon](https://github.com/sinonjs/sinon)：
+  * [jasmine](https://github.com/jasmine/jasmine)
+* 前端 E2E
+  * [cypress](https://github.com/cypress-io/cypress)
+* [storybook](https://github.com/storybookjs/storybook)
 
 -----
 
