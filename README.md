@@ -212,6 +212,7 @@
 * [whistle](https://wproxy.org/whistle/): 代理+mock+host工具
 * [mock](https://github.com/nuysoft/Mock): 前端数据mock工具
 * [whistle.vase](https://github.com/whistle-plugins/whistle.vase): whistle 的mock插件
+* [draft-js](https://github.com/facebook/draft-js)：React 的富文本组件
 
 --------
 
