@@ -90,6 +90,14 @@
   - [gulp-livereload](https://github.com/vohof/gulp-livereload)：当代码变化时，它可以帮我们自动刷新页面
 * [html-minifier](https://github.com/kangax/html-minifier): HTML压缩工具（提供Grunt、Gulp版本）
 * [UglifyJS](https://github.com/mishoo/UglifyJS2): JS脏化工具
+* Monorepo 工具链
+ - [pnpm](https://pnpm.io/)
+ - [yarn workspace](https://classic.yarnpkg.com/lang/en/docs/workspaces/)
+ - [npm workspace](https://docs.npmjs.com/cli/v7/using-npm/workspaces)
+ - [Lerna](https://lerna.js.org/)
+ - [NX](https://nx.dev/)
+ - [Changeset](https://github.com/changesets/changesets)
+ - [yalc](https://github.com/wclr/yalc)
 
 
 ## React
