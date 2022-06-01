@@ -236,4 +236,5 @@
 * [Noun Project](https://thenounproject.com/): 开源的 ICON
 * [Inkscape](https://inkscape.org/): 画图工具
 * [whimsical](https://whimsical.com/): 画图工具
+* [ORlyGenerator](https://github.com/ArthurBeaulieu/ORlyGenerator) 动物书封面制作
 
